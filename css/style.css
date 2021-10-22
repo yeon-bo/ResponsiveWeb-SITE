@@ -690,7 +690,6 @@ only screen and (min-resolution: 3dppx) {
 
 
 /*mediaquery*/
-
 /*기본 모니터*/
 @media (max-width: 1220px) {
     .container {
